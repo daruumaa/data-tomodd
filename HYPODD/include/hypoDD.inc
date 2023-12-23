@@ -17,7 +17,7 @@ c MAXCL:    Max number of clusters allowed.
 
 cc parameters for small size problems (e.g. SUN ULTRA-5, 256 MB RAM)
 c      parameter(MAXEVE=   7000,    
-c     &          MAXDATA=  5000000,
+c     &          MAXDATA=  5000000000000000,
 c     &          MAXEVE0=  30,	
 c     &          MAXDATA0= 5000,	
 c     &          MAXLAY=   12,		
@@ -26,7 +26,7 @@ c     &          MAXCL=    20)
 
 c parameters for medium size problems (e.g. : SUN ULTRA-2, 768 MB RAM)
 c       parameter(MAXEVE=  8000,
-c     &          MAXDATA=  5000000,
+c     &          MAXDATA=  5000000000000000,
 c       parameter(MAXEVE=  10800,
 c     &          MAXDATA=  3500000,
 c     &          MAXEVE0=  2,	
@@ -37,7 +37,7 @@ c     &          MAXCL=    50)
 
 cc parameters for large problems (e.g. SUN BLADE 100, 2 GB RAM):
       parameter(MAXEVE=   10800,    
-     &          MAXDATA=  3100000,
+     &          MAXDATA=  31000000000000000,
      &          MAXEVE0=  50,	
      &          MAXDATA0= 10000,	
      &          MAXLAY=   15,		
@@ -46,7 +46,7 @@ cc parameters for large problems (e.g. SUN BLADE 100, 2 GB RAM):
 
 cc parameters for very large problems, with cluster1 enabled (e.g. SUN BLADE 100, 2 GB RAM):
 c      parameter(MAXEVE=   100000,    
-c     &          MAXDATA=  10000000,
+c     &          MAXDATA=  1000000000000000,
 c     &          MAXEVE0=  2,	
 c     &          MAXDATA0= 1,	
 c     &          MAXLAY=   12,		
@@ -55,7 +55,7 @@ c     &          MAXCL=    1)
 
 cc parameters for customized problems (e.g. SUN BLADE 100, 2 GB RAM):
 c      parameter(MAXEVE=   27000,    
-c     &          MAXDATA=  2900000,
+c     &          MAXDATA=  29000000000000000,
 c     &          MAXEVE0=  2,	
 c     &          MAXDATA0= 1,	
 c     &          MAXLAY=   12,		
