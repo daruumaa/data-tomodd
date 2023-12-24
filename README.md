@@ -38,3 +38,5 @@ Depth	Vp
 170	8.22
 240	8.85
 1000	10
+
+itu udh di proses semua di codingnya
