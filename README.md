@@ -13,3 +13,28 @@ stations < maxdist =     42
 STOP >>> Increase MAXDATA in hypoDD.inc.
 
 ini kemungkinan datanya kegedean jadi harus ditambahin limitnya tp gw udh coba ubanh hypoDD.inc tp gabisa
+
+terus nilai MOD gw ambil dari jurnal dengan nilai 
+Depth	Vp
+-200	4.3
+-2	4.66
+0	4.9
+10	6.85
+20	7.09
+30	7.73
+40	7.73
+50	7.74
+60	7.74
+70	7.74
+80	7.8
+90	7.92
+100	8.04
+110	8.07
+120	8.1
+130	8.12
+140	8.15
+150	8.17
+160	8.2
+170	8.22
+240	8.85
+1000	10
