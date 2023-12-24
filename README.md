@@ -7,8 +7,8 @@ baru dimasukin ke hypodd
 *error terakhir:
 no clustering performed.
 Reading data ...   Sun Dec 24 04:03:05 2023
-# events =  1774
-# stations < maxdist =     42
+events =  1774
+stations < maxdist =     42
  MAXDATA=              1000000
 STOP >>> Increase MAXDATA in hypoDD.inc.
 
