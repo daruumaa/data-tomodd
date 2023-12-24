@@ -40,3 +40,6 @@ Depth	Vp
 1000	10
 
 itu udh di proses semua di codingnya ada di event.ipnyb
+nilai parameterisasinya 1.754
+<img width="376" alt="image" src="https://github.com/daruumaa/data-tomodd/assets/88280598/90a5e429-40f9-481f-8ab7-0df188d9e799">
+
