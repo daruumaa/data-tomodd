@@ -11,5 +11,5 @@ station.dat
 *MINOBS: min. number of links per pair saved [8]
 *MAXOBS: max. number of links per pair saved [20]
 *MINWGHT MAXDIST MAXSEP MAXNGH MINLNK MINOBS MAXOBS
-   0      500     50     60     4       4     70
+   0      500     400     100     2       2     70
  
